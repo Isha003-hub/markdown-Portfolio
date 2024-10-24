@@ -1,5 +1,3 @@
-# Isha Shah
+# Himani Bansal
 
-[Home](index)
-[Contact](contact)
-[Projects](project)
+[ABOUT](./index.md)  |  [CONTACT](./contact.md)  |  [PROJECTS](./project.md)
