@@ -1,39 +1,88 @@
 [ABOUT](./index.md)  |  [CONTACT](./contact.md)  |  [PROJECTS](./project.md)
 
 
-# Projects
+# Isha's Projects
 
-### Project 1: Nykaa - TheBeautyBlunder App
-A cosmetic app designed intentionally to break interaction design principles, featuring a bright pink background, curvy fonts, poor contrast, and inconsistent layout. It serves as a fun example of what not to do in app design.
-- [View the Nykka - TheBeautyBlunder App](https://www.figma.com/design/kWKOKAff2g4zTus71GOT9E/Himani_Bansal-(Copy)?m=auto&t=BSZynbWj2huCD5jJ-6)
+This repository contains links to all of my projects. Each project highlights different aspects of my journey in web development.
 
-### Project 2: Figma Player Card
-A personal design project where I created a player card in Figma, showcasing skills in design, prototyping, and the use of creative tools like the blobs plugin.
-- [View the Figma Player Card](https://www.figma.com/design/L1xX8cosfumI6w9493Es7l/Himani-Bansal(n01711911)_M1_F24-(Copy)?m=auto&t=0c5n9dgznxks2Mp7-6)
+## Table of Contents
 
-### Project 3: Bridgerton-Inspired Mood Board and Style Guide
-Created a mood board and style guide in Figma for a Bridgerton-inspired website. The design captures the elegance and regency-era aesthetics, with detailed typography selections, color palettes, and visual elements reflecting the show's style.
-- [View the Mood Board and Style Guide](https://www.figma.com/design/rfSqotxL3fUExllSA0cygb/Himani-Bansal-(N01711911)-(Copy)?m=auto&t=0c5n9dgznxks2Mp7-6)
+1. 
+2. [Zip n' Go](#zip-n-go)
+3. [Isha's Event Planner (Bad App Design)](#ishas-event-planner-bad-app-design)
+4. [Hover Button Prototype](#hover-button-prototype)
+5. [Menu Prototype](#menu-prototype)
+6. [Clickable Button Prototype](#clickable-button-prototype)
 
-### Project 4: Portfolio Website in Figma
-A design project where I created a mockup for my portfolio website using Figma. It includes interactive elements and showcases my design skills, providing a visual representation of the layout and style.
-- [View the Portfolio Design in Figma](https://www.figma.com/design/0H8BwQbTM5mOUTjsLXhv8A/Portfolio-Website?m=auto&t=0c5n9dgznxks2Mp7-6)
+---
 
-### Project 5: C# Assignments
-I've completed two C# assignments that demonstrate my programming skills and problem-solving abilities:
-- [C# Assignment 1](https://github.com/Himani1609/Csharp-Assignment1)
-- [C# Assignment 2](https://github.com/Himani1609/C-Sharp-Assignment-2)
+## 1. Travel Planner
 
-### Project 6: Simple Website
-A basic website project showcasing web development skills. 
-- [View the website](https://himani1609.github.io/Simple-Website-Http5110/links.html)
+**Description:** A web app designed to help users create personalized trips based on preferences such as location, duration, and budget. Features include user profiles, travel history tracking, and feedback sharing.
 
-### Project 7: GitHub Profile in Readme.md
-Created Readme.md profile page for my GitHub.
-- [GitHub profile](https://github.com/Himani1609)
+**Features:**
+- Hardcoded locations with recommendations for sightseeing, dining, and activities.
+- Budget-based itineraries with customizable options.
+- User reviews and feedback sharing.
 
-### Project 8: Blog Page - Why Math is Crucial Today
-I've created a blog page discussing the importance of mathematics in today's world, covering real-life applications, career benefits, and why math skills are essential in various fields.
-- [View the Blog Page](https://himani1609.github.io/Blog-Page/)
+**GitHub Repository:** [Travel Planner](https://github.com/your-username/travel-planner)
 
-Explore these projects to learn more about my skills in web development, data analytics, and design.
+---
+
+## 2. Zip n' Go
+
+**Description:** An app created for travel enthusiasts to help them pack efficiently based on destination, duration, and weather. Users can quickly get a list of essential items, including clothing, electronics, and accessories.
+
+**Features:**
+- Hardcoded travel destinations and time periods.
+- Essential item suggestions categorized by need.
+- Editable and shareable packing lists.
+
+**GitHub Repository:** [Zip n' Go](https://github.com/your-username/zip-n-go)
+
+---
+
+## 3. Isha's Event Planner (Bad App Design)
+
+**Description:** A deliberately flawed application designed to showcase poor interaction design practices for an Interaction Design course project. The app breaks various usability heuristics and design principles.
+
+**Features:**
+- Overly large menu buttons cluttering the interface.
+- Misplaced buttons leading to confusing navigation.
+- Unintuitive error messages and rating system.
+
+**GitHub Repository:** [Isha's Event Planner](https://github.com/your-username/ishas-event-planner)
+
+---
+
+## 4. Hover Button Prototype
+
+**Description:** A simple hover button design created in Figma for Interaction Design purposes. The prototype demonstrates how hover interactions can improve user engagement with the interface.
+
+**GitHub Repository:** [Hover Button Prototype](https://github.com/your-username/hover-button-prototype)
+
+---
+
+## 5. Menu Prototype
+
+**Description:** A design for a navigation menu using Figma. This project explores different ways to improve user interaction with menus by focusing on spatial layout and visibility.
+
+**GitHub Repository:** [Menu Prototype](https://github.com/your-username/menu-prototype)
+
+---
+
+## 6. Clickable Button Prototype
+
+**Description:** A prototype demonstrating the use of clickable buttons with dynamic responses. This project helps understand user interaction with basic UI elements and how responsive buttons contribute to overall user experience.
+
+**GitHub Repository:** [Clickable Button Prototype](https://github.com/your-username/clickable-button-prototype)
+
+---
+
+## Contact
+
+For any questions or collaboration opportunities, feel free to reach out!
+
+- **Email:** ishashah0205@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/isha-shah-0092042a4)
+- **Stack overflow:** [Your GitHub Profile](https://stackoverflow.com/users/27242136/isha-shah)

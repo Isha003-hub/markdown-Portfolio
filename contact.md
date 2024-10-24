@@ -3,10 +3,10 @@
 
 # Contact Me
 
-Feel free to reach out or connect with me on the following platforms:
+For any questions or collaboration opportunities, feel free to reach out!
 
-[<img src="./images/LinkedIn_icon.svg.png" alt="Linkedin" width="50" height="50">](https://www.linkedin.com/in/himani-bansal-8bb2532a4/)    [<img src="./images/Stack_Overflow_icon.svg.png" alt="StackOverFlow" width="67" height="67">](https://stackoverflow.com/users/27218588/himani-bansal)
-
-Looking forward to connecting with you!
+- **Email:** ishashah0205@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/isha-shah-0092042a4)
+- **Stack overflow:** [Your GitHub Profile](https://stackoverflow.com/users/27242136/isha-shah)
 
      
