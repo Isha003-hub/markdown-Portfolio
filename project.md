@@ -46,7 +46,7 @@ This repository contains links to all of my projects. Each project highlights di
 
 **Description:** A UI explained that i designed a Titanic-themed UI in Figma, incorporating background images, icons, headings, clickable links, and specific colors for fonts and headings to illustrate the envisioned layout of the website.
 
-**link ti UI:** https://www.figma.com/design/GytbBniqxFpbayiGkDT9MZ/Milestone-3?m=auto&t=ai88yIpvKBuFG3SR-6
+**link to UI:** https://www.figma.com/design/GytbBniqxFpbayiGkDT9MZ/Milestone-3?m=auto&t=ai88yIpvKBuFG3SR-6
 
 ---
 
