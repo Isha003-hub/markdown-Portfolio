@@ -7,42 +7,15 @@ This repository contains links to all of my projects. Each project highlights di
 
 ## Table of Contents
 
-1. 
-2. [Zip n' Go](#zip-n-go)
-3. [Isha's Event Planner (Bad App Design)](#ishas-event-planner-bad-app-design)
-4. [Hover Button Prototype](#hover-button-prototype)
-5. [Menu Prototype](#menu-prototype)
-6. [Clickable Button Prototype](#clickable-button-prototype)
+1. [Isha's Event Planner (Bad App Design)](#ishas-event-planner-bad-app-design)
+2. [The Player Card](#hover-button-prototype)
+3. [Blog Page](#menu-prototype)
+4. [UI](#clickable-button-prototype)
 
 ---
-
-## 1. Travel Planner
-
-**Description:** A web app designed to help users create personalized trips based on preferences such as location, duration, and budget. Features include user profiles, travel history tracking, and feedback sharing.
-
-**Features:**
-- Hardcoded locations with recommendations for sightseeing, dining, and activities.
-- Budget-based itineraries with customizable options.
-- User reviews and feedback sharing.
-
-**GitHub Repository:** [Travel Planner](https://github.com/your-username/travel-planner)
-
 ---
 
-## 2. Zip n' Go
-
-**Description:** An app created for travel enthusiasts to help them pack efficiently based on destination, duration, and weather. Users can quickly get a list of essential items, including clothing, electronics, and accessories.
-
-**Features:**
-- Hardcoded travel destinations and time periods.
-- Essential item suggestions categorized by need.
-- Editable and shareable packing lists.
-
-**GitHub Repository:** [Zip n' Go](https://github.com/your-username/zip-n-go)
-
----
-
-## 3. Isha's Event Planner (Bad App Design)
+## 1. Isha's Event Planner (Bad App Design)
 
 **Description:** A deliberately flawed application designed to showcase poor interaction design practices for an Interaction Design course project. The app breaks various usability heuristics and design principles.
 
@@ -51,31 +24,31 @@ This repository contains links to all of my projects. Each project highlights di
 - Misplaced buttons leading to confusing navigation.
 - Unintuitive error messages and rating system.
 
-**GitHub Repository:** [Isha's Event Planner](https://github.com/your-username/ishas-event-planner)
+**The Bad App:** https://www.figma.com/design/kK71P37h2IEdMNk5Uzbdeq/Isha-shah-(Milestone-2---The-Bad-App)?m=auto&t=ai88yIpvKBuFG3SR-6
 
 ---
 
-## 4. Hover Button Prototype
+## 2. The Player Card
 
-**Description:** A simple hover button design created in Figma for Interaction Design purposes. The prototype demonstrates how hover interactions can improve user engagement with the interface.
+**Description:** This personalized player card presents an overview of my personality and interests. The front side highlights my role in web development, creativity as a superpower, and my journey with Figma, while the back shares my joy for dancing, love for K-dramas, and a fun "Two Truths and a Lie" game, complete with memes that reflect my calm and artistic side.
 
-**GitHub Repository:** [Hover Button Prototype](https://github.com/your-username/hover-button-prototype)
-
----
-
-## 5. Menu Prototype
-
-**Description:** A design for a navigation menu using Figma. This project explores different ways to improve user interaction with menus by focusing on spatial layout and visibility.
-
-**GitHub Repository:** [Menu Prototype](https://github.com/your-username/menu-prototype)
+**The Player Card:** https://www.figma.com/design/mXL32wTcMY66igNmtZrLGc/Player-Card(Milesotne-1)?m=auto&t=ai88yIpvKBuFG3SR-6
 
 ---
 
-## 6. Clickable Button Prototype
+## 3. Blog Page
 
-**Description:** A prototype demonstrating the use of clickable buttons with dynamic responses. This project helps understand user interaction with basic UI elements and how responsive buttons contribute to overall user experience.
+**Description:** A blog page focused on dance, featuring various dance styles along with brief descriptions. They included links to guides and options for purchasing related items. Additionally, the page offers a registration form for sign-up, as well as links to social media.
 
-**GitHub Repository:** [Clickable Button Prototype](https://github.com/your-username/clickable-button-prototype)
+**Blog Page for Review:** file:///C:/Users/ISHA/OneDrive/Documents/HUMBER/HTTP-5121%20-%20Web%20Design/HTML-Assignment1-IshaShah/index.html
+
+---
+
+## 4. UI
+
+**Description:** A UI explained that i designed a Titanic-themed UI in Figma, incorporating background images, icons, headings, clickable links, and specific colors for fonts and headings to illustrate the envisioned layout of the website.
+
+**link ti UI:** https://www.figma.com/design/GytbBniqxFpbayiGkDT9MZ/Milestone-3?m=auto&t=ai88yIpvKBuFG3SR-6
 
 ---
 
