@@ -7,12 +7,10 @@ This repository contains links to all of my projects. Each project highlights di
 
 ## Table of Contents
 
-1. [Isha's Event Planner (Bad App Design)](#ishas-event-planner-bad-app-design)
-2. [The Player Card](#hover-button-prototype)
-3. [Blog Page](#menu-prototype)
-4. [UI](#clickable-button-prototype)
-
----
+1. [Isha's Event Planner (Bad App Design)]
+2. [The Player Card]
+3. [Blog Page]
+4. [UI]
 ---
 
 ## 1. Isha's Event Planner (Bad App Design)
